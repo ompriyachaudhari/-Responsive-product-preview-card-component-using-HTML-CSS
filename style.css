@@ -65,6 +65,7 @@ button:active{
 p{
     font-size: 14px;
     line-height: 1.2rem;
+    color:hsl(228, 12%, 48%);
 }
 .more{
       margin-top: 2vh;
